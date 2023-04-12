@@ -66,7 +66,7 @@ setPhone('');
 
 
         </div>
-        <div className="shadow p-5 w-100 mx-auto">
+        <div className="shadow p-5 w-100 mx-auto container">
           <table className='table'>
             <thead>
               <tr><th></th><th>NUM</th><th>NAME</th><th>EMAIL</th><th>PHONE</th><th>DATE OF ADMISSION</th><th></th><th></th></tr>
