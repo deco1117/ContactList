@@ -7,16 +7,13 @@ import Todo from './pages/Todo/index.jsx'
 
 const App = () => {
 
-useEffect(()=>{
-  console.log('useEffect')
-},[])
 
 
 
   return (
     <>
       <main>
-
+          <Todo/>
       </main>
     </> 
   );
